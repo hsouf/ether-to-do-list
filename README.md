@@ -7,9 +7,9 @@ Decentralized To do list app deployed over a local ethereum blockchain.
  <img width="1138" alt="Capture d’écran 2021-04-01 à 9 23 04 p m" src="https://user-images.githubusercontent.com/37840702/113360240-4681c880-9341-11eb-9c15-6d1c9358f449.png">
 
 
-Used
-Solidity: to build smart contracts...
-Ganache : allows you to run a local Ethereum Blockchain(for development purposes only ^^)
-Truffle : framework that automates very dull task for you manages the environment and allows you to communicate with your blockchain..
-Metamask: The browser extension that will  connect  you to the  ethereum blockchain 
-Mocha : for async testing (to ensure that the contract was initialized properly)
+Used :
+~Solidity : the programming language to build your smart contracts…
+~Ganache : Allows you to run a local Ethereum blockchain (for development purposes only ^^)
+~Truffle : a development framework that manages your Ethereum blockchain environment (network, contracts, migrations...)
+~Metamask: your crypto wallet that will connect you to the blockchain
+~Mocha : for async testing
